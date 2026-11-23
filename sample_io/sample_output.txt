@@ -1,0 +1,24 @@
+GRADETECH - STUDENT RESULT ANALYZER
+
+STUDENT 1
+Roll Number: 101
+Name: Aarav
+Total Marks: 440/500
+Percentage: 88.00%
+Grade: B
+Result: PASS
+
+STUDENT 2
+Roll Number: 102
+Name: Rahul
+Total Marks: 400/500
+Percentage: 80.00%
+Grade: B
+Result: PASS
+
+CLASS TOPPER
+Name: Aarav
+Roll Number: 101
+Percentage: 88.00%
+
+CLASS AVERAGE: 84.00%
