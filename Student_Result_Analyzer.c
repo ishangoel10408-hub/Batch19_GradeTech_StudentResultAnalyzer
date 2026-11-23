@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include <string.h>
+
 
 struct Student {
     int roll;
@@ -147,7 +147,7 @@ int main() {
     int n = 0, choice;
 
     do {
-        printf("\n===== GRADTECH STUDENT RESULT ANALYZER =====\n");
+        printf("\n===== GRADE TECH STUDENT RESULT ANALYZER =====\n");
         printf("1. Add Student\n");
         printf("2. Display All Results\n");
         printf("3. Search Student\n");
